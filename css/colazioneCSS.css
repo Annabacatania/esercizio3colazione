@@ -1,0 +1,17 @@
+@import
+url("https://fonts.googleapis.com/css?family=Akshar:400|ABeeZee:400");
+
+
+body {
+    background-color: #f8f8f8;
+}
+
+img {
+    max-width: 100%;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
